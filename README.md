@@ -14,7 +14,7 @@ Full Stack Developer • Python • Flask • AI Enthusiast
 
 # 💫 About Me
 
-- 🎓 Final Year CSE Student
+- 🎓 CSE Graduate
 - 💻 Full Stack Developer
 - 🚀 Building Real World Projects
 - 🤖 AI & Machine Learning Enthusiast
@@ -34,9 +34,9 @@ Full Stack Developer • Python • Flask • AI Enthusiast
 
 # 🚀 Featured Projects
 
-### 🌾 Smart AgriMind AI Chatbot
+### 🌾 ZYRA AI Chatbot
 
-AI powered multilingual agriculture chatbot.
+AI powered multilingual Advanced chatbot.
 
 ---
 
@@ -115,7 +115,7 @@ Coming Soon...
 
 # 🌐 Connect
 
-📧 your@email.com
+📧 suryasivalai04@gmail.com
 
 💼 LinkedIn
 
