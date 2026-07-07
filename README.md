@@ -68,7 +68,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Jeyasurya-dev&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -78,7 +78,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jeyasurya-dev&theme=algolia&no-frame=true&row=1"/>
 
 </p>
 
@@ -88,7 +88,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeyasurya-dev&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -98,7 +98,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Jeyasurya-dev/Jeyasurya-dev/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
