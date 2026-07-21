@@ -1,24 +1,42 @@
-<h1 align="center">
-  Hi 👋, I'm JEYA SURYA B
-</h1>
+<h1 align="center">Hi 👋, I'm JEYA SURYA B</h1>
 
 <h3 align="center">
-Full Stack Developer • Python • Flask • AI Enthusiast
+Full Stack Developer • Python Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;AI+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI+Powered+Web+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Jeyasurya-dev&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/Jeyasurya-dev?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/Jeyasurya-dev?style=social"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 CSE Graduate
-- 💻 Full Stack Developer
-- 🚀 Building Real World Projects
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Learning Every Day
+🎓 B.E Computer Science & Engineering Graduate (2026)
+
+💻 Passionate Full Stack Web Developer
+
+🚀 Building Modern Full Stack & AI Powered Web Applications
+
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Cloud Deployment
+
+🎯 Goal
+
+Become a Software Engineer and build scalable products used by thousands of users.
 
 ---
 
@@ -26,7 +44,7 @@ Full Stack Developer • Python • Flask • AI Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,flask,mysql,mongodb,firebase,git,github,vscode,postman,netlify,vercel,render"/>
 
 </p>
 
@@ -34,21 +52,122 @@ Full Stack Developer • Python • Flask • AI Enthusiast
 
 # 🚀 Featured Projects
 
-### 🌾 ZYRA AI Chatbot
+## 🌟 SYRA AI
 
-AI powered multilingual Advanced chatbot.
+AI Powered Smart Assistant built using Python, Flask, Firebase Authentication, EmailJS and AI APIs.
+
+### Features
+
+- AI Chat
+- Authentication
+- Email Integration
+- Responsive Design
+- Modern UI
+
+### 🔗 Live Demo
+
+https://syra-ai-seven.vercel.app/
 
 ---
 
-### 🌐 Modern Portfolio Website
+## 💰 Smart Expense Tracker
 
-Responsive Portfolio Website.
+Modern Expense Tracker with Analytics Dashboard.
+
+### Features
+
+- Income Tracking
+- Expense Tracking
+- Budget Management
+- Savings Goals
+- Dashboard Analytics
+
+### 🔗 Live Demo
+
+https://smart-expense-tracker-4ti2.onrender.com
+
+### 💻 GitHub
+
+https://github.com/Jeyasurya-dev/smart-expense-tracker
 
 ---
 
-### ☁️ SaaS Project
+## 🌾 Sethu Farm
 
-Coming Soon...
+Responsive Agriculture Business Website.
+
+### Features
+
+- Responsive UI
+- SEO Optimized
+- Product Showcase
+- Contact Form
+
+### 🔗 Live Demo
+
+https://sethufarm.netlify.app/
+
+---
+
+## 🎓 Student Attendance Management System
+
+Attendance Management Web Application.
+
+### Features
+
+- Admin Dashboard
+- Student Management
+- Attendance Reports
+
+### 🔗 Live Demo
+
+https://students-attendance-system-rm1h.onrender.com/
+
+---
+
+## 🌐 Portfolio Website
+
+Personal Portfolio Website.
+
+### 🔗 Live Demo
+
+https://jeya-surya-portfolio.vercel.app
+
+---
+
+# 📈 Currently Working On
+
+✔ Full Stack Development
+
+✔ AI Powered Web Applications
+
+✔ REST APIs
+
+✔ Backend Development
+
+✔ Modern UI Design
+
+✔ Cloud Deployment
+
+---
+
+# 🛠 Tools
+
+- VS Code
+
+- Git
+
+- GitHub
+
+- Postman
+
+- Firebase
+
+- Render
+
+- Vercel
+
+- Netlify
 
 ---
 
@@ -56,9 +175,9 @@ Coming Soon...
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeyasurya-dev&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyasurya-dev&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -78,7 +197,7 @@ Coming Soon...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jeyasurya-dev&theme=algolia&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jeyasurya-dev&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -106,25 +225,62 @@ Coming Soon...
 
 # 🎯 2026 Goals
 
-- ✅ Become Full Stack Developer
-- ✅ Build SaaS Products
-- ✅ Learn React & Node.js
-- ✅ Contribute to Open Source
+✅ Become Software Engineer
+
+✅ Master Full Stack Development
+
+✅ Build SaaS Products
+
+✅ Learn System Design
+
+✅ Learn Cloud Computing
+
+✅ Contribute to Open Source
 
 ---
 
-# 🌐 Connect
+# 🏅 Certifications
 
-📧 suryasivalai04@gmail.com
+- Python Programming
+
+- Web Development
+
+- AI & Machine Learning
+
+- Git & GitHub
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email
+
+suryasivalai04@gmail.com
 
 💼 LinkedIn
 
+https://www.linkedin.com/in/jeya-surya-b-84a80337a
+
 🌍 Portfolio
+
+https://jeya-surya-portfolio.vercel.app
+
+💻 GitHub
+
+https://github.com/Jeyasurya-dev
+
+---
+
+# 💖 Quote
+
+> "Consistency beats talent when talent doesn't stay consistent."
 
 ---
 
 <p align="center">
 
 ⭐ Thanks for visiting my profile ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
 
 </p>
