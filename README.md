@@ -66,7 +66,7 @@ AI Powered Smart Assistant built using Python, Flask, Firebase Authentication, E
 
 ### 🔗 Live Demo
 
-https://syra-ai-seven.vercel.app/
+https://syra-ai-seven.vercel.app
 
 ---
 
@@ -105,7 +105,7 @@ Responsive Agriculture Business Website.
 
 ### 🔗 Live Demo
 
-https://sethufarm.netlify.app/
+https://sethufarm.netlify.app
 
 ---
 
