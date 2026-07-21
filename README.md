@@ -298,10 +298,10 @@ https://github.com/Jeyasurya-dev
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile ⭐
 
 If you like my work, don't forget to ⭐ my repositories.
 
-</p>
+</div>
