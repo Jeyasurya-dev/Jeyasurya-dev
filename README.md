@@ -84,7 +84,7 @@ Modern Expense Tracker with Analytics Dashboard.
 
 ### 🔗 Live Demo
 
-https://smart-expense-tracker-4ti2.onrender.com
+https://smart-expense-tracker-sage-eight.vercel.app/
 
 ### 💻 GitHub
 
