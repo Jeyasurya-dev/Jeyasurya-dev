@@ -135,6 +135,27 @@ https://jeya-surya-portfolio.vercel.app
 
 ---
 
+# 📄 Resume
+
+<p align="center">
+
+<a href="https://github.com/Jeyasurya-dev/Jeya-Surya-Resume/blob/main/Jeya%20Surya%20Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20View%20Resume-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://raw.githubusercontent.com/Jeyasurya-dev/Jeya-Surya-Resume/main/Jeya%20Surya%20Resume.pdf">
+  <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+<b>Latest ATS-Friendly Resume for Software Engineer, Full Stack Developer & Python Developer roles.</b>
+</p>
+
+---
+
+
 # 📈 Currently Working On
 
 ✔ Full Stack Development
