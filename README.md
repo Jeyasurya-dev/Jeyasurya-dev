@@ -84,7 +84,7 @@ Modern Expense Tracker with Analytics Dashboard.
 
 ### 🔗 Live Demo
 
-https://smart-expense-tracker-sage-eight.vercel.app/
+https://smart-expense-tracker-sage-eight.vercel.app
 
 ### 💻 GitHub
 
@@ -121,7 +121,7 @@ Attendance Management Web Application.
 
 ### 🔗 Live Demo
 
-https://students-attendance-system-rm1h.onrender.com/
+https://students-attendance-system-rm1h.onrender.com
 
 ---
 
