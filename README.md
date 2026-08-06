@@ -105,7 +105,7 @@ Responsive Agriculture Business Website.
 
 ### 🔗 Live Demo
 
-https://sethufarm.netlify.app
+https://sethufarm.vercel.app
 
 ---
 
@@ -131,7 +131,7 @@ Personal Portfolio Website.
 
 ### 🔗 Live Demo
 
-https://jeya-surya-portfolio.vercel.app
+https://jeyasurya-portfolio.vercel.app
 
 ---
 
