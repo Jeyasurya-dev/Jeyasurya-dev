@@ -16,23 +16,14 @@ Full Stack Developer • Python Developer • AI Enthusiast
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-🎓 B.E Computer Science & Engineering Graduate (2026)
-
-💻 Passionate Full Stack Web Developer
-
-🚀 Building Modern Full Stack & AI Powered Web Applications
-
-🤖 Interested in Artificial Intelligence & Machine Learning
-
-🌱 Currently Learning
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Cloud Deployment
+- 🎓 B.E. Computer Science & Engineering Graduate (2026)
+- 💼 Full Stack Developer passionate about building scalable web applications
+- 🚀 Skilled in Python, Flask, React, JavaScript, HTML5, CSS3 and MySQL
+- 🤖 Interested in AI-powered applications and modern web technologies
+- 🌱 Currently learning React, Node.js, Express.js, MongoDB and Cloud Deployment
+- 🟢 Open to Full Stack Developer, Software Engineer and Python Developer opportunities
 
 🎯 Goal
 
@@ -274,21 +265,25 @@ https://jeyasurya-portfolio.vercel.app
 
 # 🌐 Connect With Me
 
-📧 Email
+<p align="center">
 
-suryasivalai04@gmail.com
+<a href="https://www.linkedin.com/in/jeya-surya-b-84a80337a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💼 LinkedIn
+<a href="https://jeyasurya-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/in/jeya-surya-b-84a80337a
+<a href="https://github.com/Jeyasurya-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-🌍 Portfolio
+<a href="mailto:suryasivalai04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-https://jeya-surya-portfolio.vercel.app
-
-💻 GitHub
-
-https://github.com/Jeyasurya-dev
+</p>
 
 ---
 
